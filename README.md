@@ -23,5 +23,5 @@ Webstorm is a useful tool for editing text files and coding projects. It also ha
 
 ## References
 
-* https://docs.github.com/en/get-started/quickstart/github-glossary#repository
+* https://docs.github.com/en/get-started/quickstart/github-glossary
 * https://www.jetbrains.com/help/webstorm/getting-started-with-webstorm.html
